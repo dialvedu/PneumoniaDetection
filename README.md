@@ -27,3 +27,5 @@ The dataset was obtained from the Kaggle dataset [Chest X-Ray Images (Pneumonia)
 [1] NHS, “Pneumonia,” NHS choices. [Online]. Available: https://www.nhs.uk/conditions/pneumonia/. [Accessed: 20-Jan-2022].
 
 [2] E. Byeon, “Exploratory data analysis ideas for image classification,” Medium, 11-Sep-2020. [Online]. Available: https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2. [Accessed: 21-Jan-2022]. 
+
+[3] Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
