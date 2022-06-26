@@ -20,7 +20,11 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 ### Dataset
 
-The dataset was obtained from the Kaggle dataset [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), which comes from [Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification](https://data.mendeley.com/datasets/rscbjbr9sj/2) from Mendeley Data. According to the description of this dataset, data is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia or Normal). There are 5863 X-Ray images (JPEG) and 2 categories according to de diagnosis (Pneumonia or Normal).
+The dataset was obtained from the Kaggle dataset [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), which comes from [Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification](https://data.mendeley.com/datasets/rscbjbr9sj/2) from Mendeley Data. According to the description of this dataset, data is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia or Normal). There are 5863 X-Ray images (JPEG) and 2 categories according to the diagnosis (Pneumonia or Normal).
+
+<center>[Comparative image](https://github.com/dialvedu/PneumoniaDetection/blob/main/normal_pneumonia.png)</center>
+
+In the image, there are three random selected images from which we can see that is difficult to tell the difference at first glance of Pneumonia patients and people without the disease.
 
 ## References
 
