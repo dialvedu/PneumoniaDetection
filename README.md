@@ -33,3 +33,5 @@ In the image, there are three random selected images from which we can see that 
 [2] E. Byeon, “Exploratory data analysis ideas for image classification,” Medium, 11-Sep-2020. [Online]. Available: https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2. [Accessed: 21-Jan-2022]. 
 
 [3] Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
+
+[4] Yadav, S.S., Jadhav, S.M. Deep convolutional neural network based medical image classification for disease diagnosis. J Big Data 6, 113 (2019). https://doi.org/10.1186/s40537-019-0276-2
