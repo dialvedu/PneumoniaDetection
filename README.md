@@ -22,9 +22,21 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 The dataset was obtained from the Kaggle dataset [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), which comes from [Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification](https://data.mendeley.com/datasets/rscbjbr9sj/2) from Mendeley Data. According to the description of this dataset, data is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia or Normal). There are 5863 X-Ray images (JPEG) and 2 categories according to the diagnosis (Pneumonia or Normal).
 
-![Comparative image](https://github.com/dialvedu/PneumoniaDetection/blob/main/normal_pneumonia.png)
+![Comparative image](https://github.com/dialvedu/PneumoniaDetection/blob/main/readme_files/normal_pneumonia.png)
 
 In the image, there are three random selected images from which we can see that is difficult to tell the difference at first glance of Pneumonia patients and people without the disease.
+
+## Results
+
+Results where explained through [Grad-Cam algorithm](https://keras.io/examples/vision/grad_cam/), where we can see a heatmap of which parts of the images are used by the model to define the classes.
+
+![Heatmap image](https://github.com/dialvedu/PneumoniaDetection/blob/main/readme_files/norm_pneum_heatmap.png)
+
+We can see that the heatmap shows that the lung area gives more information about the classes, taking into account the contrast between lungs, background and ribcage.
+
+## Conclusion
+
+We have seen that pneumonia is difficult to identify for the untrained eye in chest X-ray images. CNN models could help to reduce uncertainity in diagnosis, as they are able to identify features that may escape the human eye.
 
 ## References
 
